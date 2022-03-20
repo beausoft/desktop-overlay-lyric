@@ -1,5 +1,5 @@
-# desktop-draw-lrc
+# Win32桌面歌词
 
-桌面歌词
+基于GDI+实现
 
-这个是很早之前做的了，写的很烂，存在内存泄漏。
+![exhibition.jpg](exhibition.jpg)
